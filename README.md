@@ -1,2 +1,2 @@
-# OS1-beta
-llama based OS - beta 
+# ALICE
+Autonomous agents for everyone 
